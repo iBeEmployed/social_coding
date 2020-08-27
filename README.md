@@ -1,11 +1,14 @@
 # README
+## Demonstrate knowledge of social coding behaviors
 
-this is bound to cause trouble
+## Execute successful "Fork and Pull" model in GitHub
 
-## updating some stuff
+## Demonstrate effective searching via GitHub / GHE to identify code
 
-woopdy frickin do
+## Leverage established channels , i.e. slack, to collaborate and identify code
 
-## a 3rd thing
+## Understand the use of Open Source and the implications
 
-more stuff poppin off the chain
+## Demonstrate successful usage of Open Sources scanning tools
+
+## Understand the appropriate protection and usage of Intellectual Property
